@@ -36,5 +36,5 @@
     "src/app/api/cron/fes-attribution/route.ts": {
       "maxDuration": 120
     }
-  ]
+  }
 }
